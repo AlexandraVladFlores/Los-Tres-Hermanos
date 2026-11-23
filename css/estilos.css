@@ -1817,3 +1817,8 @@ img {
     transform: none !important;
     box-sizing: border-box !important;
 }
+
+/* Ocultar etiquetas de categorías en las fotografías */
+.catalog-label {
+    display: none !important;
+}
